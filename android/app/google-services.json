@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "753055781769",
+    "project_id": "civicsphere-b467c",
+    "storage_bucket": "civicsphere-b467c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753055781769:android:4fa05af1925a6a54ab8758",
+        "android_client_info": {
+          "package_name": "com.example.civic_sphere"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwhvnxgTbHFwXDjFhAgldMhhzOAzgO8Vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
