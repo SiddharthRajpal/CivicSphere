@@ -119,17 +119,21 @@ lib/
 
 ## 📷 Screenshots
 
-![Screenshot_20250601-154748](https://github.com/user-attachments/assets/a13913f9-e438-4b0d-91cd-a22cf7d467e0)
-![Screenshot_20250601-154750](https://github.com/user-attachments/assets/5331cd63-ae4f-4172-b414-c52ef7a707dc)
-![Screenshot_20250601-154819](https://github.com/user-attachments/assets/1748ea0f-2b8d-4a26-b3b9-d96a2f0c7e22)
-![Screenshot_20250601-154823](https://github.com/user-attachments/assets/2dfded9d-f5b7-48d2-88a4-a1949c5980f6)
-![Screenshot_20250601-154852](https://github.com/user-attachments/assets/7fa5659c-2893-44cc-a6e8-fb79aee62bb9)
-![Screenshot_20250601-154854](https://github.com/user-attachments/assets/087204d5-3ced-486c-93b2-e6640ed82fee)
-![Screenshot_20250601-154910](https://github.com/user-attachments/assets/07f4b48d-44b9-4ae9-a445-649473becbdb)
-![Screenshot_20250601-154914](https://github.com/user-attachments/assets/97e1a383-5c0d-4f4e-a65e-d55061dd865b)
-![Screenshot_20250601-154918](https://github.com/user-attachments/assets/98dd476e-fcf2-481f-ad00-854665aeca7d)
-![Screenshot_20250601-154921](https://github.com/user-attachments/assets/efd9eb9c-07e0-4c8b-94b2-8c4648615271)
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a13913f9-e438-4b0d-91cd-a22cf7d467e0" width="200"/>
+  <img src="https://github.com/user-attachments/assets/5331cd63-ae4f-4172-b414-c52ef7a707dc" width="200"/>
+  <img src="https://github.com/user-attachments/assets/1748ea0f-2b8d-4a26-b3b9-d96a2f0c7e22" width="200"/>
+  <br/>
+  <img src="https://github.com/user-attachments/assets/2dfded9d-f5b7-48d2-88a4-a1949c5980f6" width="200"/>
+  <img src="https://github.com/user-attachments/assets/7fa5659c-2893-44cc-a6e8-fb79aee62bb9" width="200"/>
+  <img src="https://github.com/user-attachments/assets/087204d5-3ced-486c-93b2-e6640ed82fee" width="200"/>
+  <br/>
+  <img src="https://github.com/user-attachments/assets/07f4b48d-44b9-4ae9-a445-649473becbdb" width="200"/>
+  <img src="https://github.com/user-attachments/assets/97e1a383-5c0d-4f4e-a65e-d55061dd865b" width="200"/>
+  <img src="https://github.com/user-attachments/assets/98dd476e-fcf2-481f-ad00-854665aeca7d" width="200"/>
+  <br/>
+  <img src="https://github.com/user-attachments/assets/efd9eb9c-07e0-4c8b-94b2-8c4648615271" width="200"/>
+</div>
 
 
 ---
